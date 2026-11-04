@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Sticky Wall">
+  <g transform="rotate(-5 32 32)">
+    <rect x="11" y="9" width="42" height="46" rx="7" fill="#f7c869"/>
+    <path d="M53 40v8a7 7 0 0 1-7 7h-9z" fill="#e9a83f"/>
+    <rect x="19" y="20" width="22" height="3.6" rx="1.8" fill="#8a5a10" opacity="0.42"/>
+    <rect x="19" y="28" width="16" height="3.6" rx="1.8" fill="#8a5a10" opacity="0.34"/>
+    <rect x="19" y="36" width="19" height="3.6" rx="1.8" fill="#8a5a10" opacity="0.26"/>
+  </g>
+</svg>

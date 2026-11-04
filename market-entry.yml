@@ -1,0 +1,23 @@
+# 这一整个文件就是投稿本身。
+# 复制到 awesome-dsh-plugin 仓库：data/plugins/<owner>__<repo>.yml
+# （文件名 = 你的 GitHub owner 和 repo，用双下划线连接；例如
+#   data/plugins/octocat__dsh-sticky-wall.yml）
+#
+# 规则来源：awesome-dsh-plugin/awesome-dsh-plugin 的 contributing.md
+#   - url 必须与仓库完全一致（不要带 .git、不要带末尾斜杠）
+#   - name 用 owner/repo；monorepo 子包用 owner/repo#subname
+#   - description.en 必填、以英文句号结尾；zh 可选，维护者会补
+#   - 描述只能说自己做了什么，不能带营销词，且必须能被代码核对
+#   - 描述里出现 ": "（英文冒号+空格）必须给整行加引号
+
+url: https://github.com/hahajing233-source/dsh-sticky-wall
+name: hahajing233-source/dsh-sticky-wall
+category: ui
+description:
+  en: Sticky notes on a wall, with four paper stocks, five inks, seven typefaces, four text sizes and your choice of tape, clip or pin.
+  zh: 侧边栏里的便签墙：四种纸面、五种墨色、七种字体、四档字号，胶带或回形针或图钉固定，随手记下自动保存。
+# 可选：GitHub 托管的位图，作为市场卡片图标（不写则回退到你的 GitHub 头像）
+icon: https://raw.githubusercontent.com/hahajing233-source/dsh-sticky-wall/main/assets/icon-180.png
+# 可选：不发 npm 时，指向 GitHub Release 上的预构建 tarball。
+# 注意 latest/download/ 只解析 latest，文件名按字面取——文件名里带版本号会在下次发版时 404。
+# tarball: https://github.com/hahajing233-source/dsh-sticky-wall/releases/latest/download/dsh-sticky-wall.tgz

@@ -1,0 +1,5 @@
+# 便签墙 bundle 补丁层：Host 半只是声明一个插件行，
+# 便签板的渲染与数据全部由 ./client 的浏览器半负责。
+- insert:
+    - id: sticky-wall
+      name: dsh-sticky-wall

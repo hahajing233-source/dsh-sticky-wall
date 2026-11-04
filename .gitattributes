@@ -1,0 +1,6 @@
+# Normalise line endings: this is a JavaScript package, and CRLF in client.js
+# would show up as a whole-file diff for anyone on macOS or Linux.
+* text=auto eol=lf
+
+*.png binary
+*.tgz binary
