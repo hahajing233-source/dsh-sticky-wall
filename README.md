@@ -20,18 +20,13 @@ A paper sticky-note wall in the DeepSeek Harness sidebar. / DeepSeek Harness 侧
 - **Delete in two steps** — a non-empty note turns its bin red and asks for a second click; an empty note goes immediately.
 - **Saves itself** — the wall is written to the browser's `localStorage` under `dsh.sticky-wall.v1`. No save button, no server, no network request.
 
-<!-- Screenshots. The catalog reads screenshots.json in the repository root when
-     it exists, and falls back to images in this README when it does not. Add the
-     PNGs under docs/screenshots/, create that screenshots.json (see
-     docs/screenshots/README.md), then delete the two comment fences below.
-
 ## Screenshots
 
-| The wall | Appearance | One note |
-| --- | --- | --- |
-| ![Sticky wall](docs/screenshots/wall.png) | ![Appearance panel](docs/screenshots/appearance.png) | ![Note footer](docs/screenshots/note.png) |
+![Sticky wall](docs/screenshots/wall.png)
 
--->
+![Four stocks side by side](docs/screenshots/variety.png)
+
+![One note with its four dropdowns](docs/screenshots/note.png)
 
 ## Appearance
 

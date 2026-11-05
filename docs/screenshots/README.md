@@ -5,11 +5,15 @@ Storefront pictures for the plugin catalog. The catalog reads them from
 relative to that file. Images are what people judge before installing, so this is
 worth doing properly.
 
-| File | What to capture | Why |
+| File | What it shows | Why |
 | --- | --- | --- |
-| `wall.png` | The whole panel with 5–8 notes: mixed stocks (post-it, ruled, graph, kraft), at least one taped and one pinned note, and a couple of different inks | This is the first thing anyone sees; it has to show the range in one frame |
-| `appearance.png` | The appearance panel open (paper / fastening / font / size) | People need to see it is configurable before they install |
+| `wall.png` | The panel with a wall of notes, mixed stocks, at least one taped and one pinned note | This is the first thing anyone sees; it has to show the range in one frame |
+| `variety.png` | Four or five notes side by side, two tapes visible | Shows the paper stocks read differently at a glance |
 | `note.png` | One note, hovered, so its footer shows the four dropdowns and the bin | Shows the per-note controls without a wall of text |
+
+Still worth adding when you get a chance: **`appearance.png`** — the appearance panel
+open (paper / fastening / font / size). Drop it in this folder, append it to
+`screenshots.json`, and it appears in the carousel; no pull request needed.
 
 ## How to take them
 
