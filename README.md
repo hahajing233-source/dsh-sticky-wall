@@ -22,9 +22,9 @@ A paper sticky-note wall in the DeepSeek Harness sidebar. / DeepSeek Harness 侧
 
 ## Screenshots
 
-![Sticky wall](docs/screenshots/wall.png)
+![Three notes, three typefaces, three inks](docs/screenshots/variety.png)
 
-![Four stocks side by side](docs/screenshots/variety.png)
+![Sticky wall](docs/screenshots/wall.png)
 
 ![One note with its four dropdowns](docs/screenshots/note.png)
 

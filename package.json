@@ -1,6 +1,6 @@
 {
   "name": "dsh-sticky-wall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Sticky notes on a wall in the DeepSeek Harness sidebar, with four paper stocks, five inks, seven typefaces, four text sizes and your choice of tape, clip or pin.",
   "license": "MIT",

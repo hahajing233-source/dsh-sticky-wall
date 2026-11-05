@@ -326,7 +326,7 @@ window.__ModuleLoader__.load({
       '.dw-select-paper{width:78px}',
       '.dw-select-ink{width:62px}',
       '.dw-select-face{width:60px}',
-      '.dw-select-size{width:40px}',
+      '.dw-select-size{width:48px}',
       /* the same control on the theme surface, inside the appearance panel */
       '.dw-pick-pop{display:flex;width:100%}',
       '.dw-pick-pop::after{right:8px;border-top-color:var(--dsw-alias-label-secondary);opacity:.8}',
